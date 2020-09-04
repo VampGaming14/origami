@@ -1,0 +1,24 @@
+h1{
+    color:blue
+}
+*{
+    border:solid
+}
+.Header{
+    color:turquoise;
+    background-color:black;
+    display:flex;
+    justify-content:space-between; 
+}
+.item{
+    color:blue;
+    background-color:blueviolet;
+    display:flex;
+    justify-content:space-between;
+}
+.footer{
+    color:teal;
+    background-color: tomato;
+    display: flex;
+    justify-content: flex-end;
+}
